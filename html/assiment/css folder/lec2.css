@@ -1,0 +1,19 @@
+p{
+    color: red;
+}
+.par{
+    color: green;
+
+}
+#main{
+    color: blue;
+}
+div h2{
+    color: orangered;
+}
+div > h1{
+    color: orange;
+}
+div > h3{
+    color: burlywood;
+}
