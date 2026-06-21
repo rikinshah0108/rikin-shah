@@ -1,0 +1,40 @@
+h1{
+    color: blue;
+}
+p{
+    color: green;
+}
+button{
+    color: rgb(150, 23, 97);
+}
+a{
+    color: chartreuse;
+}
+.new{
+    color: blue;
+}
+u{
+    text-decoration-color: blue;
+}
+del{
+    text-decoration-color: blue;
+}
+strong{
+    text-decoration: overline;
+}
+#news::first-letter{
+    color: blue;
+    font-size: 24px;
+}
+button:hover{
+    color: blue;
+}
+#li1{
+    color: darkmagenta;
+}
+#li2{
+    color: rgb(139, 69, 0);
+}
+#li3{
+    color: rgb(0, 139, 67);
+}
