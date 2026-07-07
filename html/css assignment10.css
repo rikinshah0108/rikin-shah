@@ -1,0 +1,18 @@
+div{border: 2px solid; width: 300px; height: 120px; overflow: hidden;}
+.a{border: 20px solid; width: 350px; height: 150px; overflow-y: scroll; overflow-x: scroll;}
+.b{border: 10px solid; width: 300px; height: 150px; overflow-y: auto;  }
+.c{border: 10px dotted; width: 400px; overflow-y: scroll ;}
+.e{visibility: hidden;}
+p{border: 10px solid;}
+.g{border: 10px dotted; visibility: hidden;}
+.row{display: flex;}
+.h{width: 50%;}
+section{display: flex;}
+nav{width: 30%;}
+button{width: 70% ;}
+.nai{width: 25%;}
+.ab{width: 75%;}
+.lr10{width: 40%;}
+.lr20{width: 60%;}
+.asd{max-width: fit-content; min-height: fit-content; column-count: 4 ;column-rule: 1px solid; overflow: hidden;}
+ul{border: 10px solid; height:300px ; overflow-y: scroll; }

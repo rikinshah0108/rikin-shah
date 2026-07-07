@@ -1,0 +1,30 @@
+h1{font-family: Arial, Helvetica, sans-serif;}
+p{font-family: 'Courier New', Courier, monospace;}
+button{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+p{font-style: italic;}
+p{font-weight: bolder;
+font-size: small;}
+h2{font-size: larger;}
+p{font-variant: small-caps;}
+.nor{font-size: medium;}
+h3{
+    font: 500 ; color: blue; font-size: larger; font-style: italic;   
+}
+.left{text-align: left; text-decoration: underline; text-transform: uppercase; text-indent: 10px;}
+.center{text-align: center; text-decoration: overline; text-transform: lowercase;}
+.right{text-align: right; text-decoration: line-through; text-transform: capitalize;}
+.justify{text-align: justify; text-decoration: none;}
+h1{letter-spacing: 1cap;}
+.word{word-spacing: 1cap;}
+.line{line-height: 5cap;}
+.blog{font-family: Arial, Helvetica, sans-serif ; font-weight: 400; letter-spacing: 1cap; text-transform: capitalize;}
+.resume{text-align: center; letter-spacing: normal;}
+strong{font-size: larger;}
+li{line-height: 5cap;}
+.news{text-align: justify; text-indent: 10cap; line-height: normal;}
+b{font-size: xx-large; font-weight: 400;  text-transform: uppercase;word-spacing: 1cap;}
+.a{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: large;}
+.b{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: x-large;}
+.c{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 400;}
+.s{color: blueviolet; letter-spacing: normal;}
+.r{text-align: center; word-spacing: 1cap;}

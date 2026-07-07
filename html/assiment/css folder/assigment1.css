@@ -1,0 +1,103 @@
+h1{
+    color: blue;
+}
+h2{
+    font-size: 45px;
+}
+p{
+    color: red; font-size: 50px;
+
+}
+.student-card{
+    background-color: aqua;
+    border-radius: 12px;
+}
+.student-name{
+    color: blueviolet;
+
+}
+.c1{
+    color: blanchedalmond;
+}
+.c2{
+    color: brown;
+}
+.c3{
+    color: burlywood;
+}
+#banner{
+    background-color: yellow;
+}
+.aaa{
+    color: black;
+}
+#contact{
+    background-color: blue;
+    font-size: 54px;
+}
+.parent >p{
+    color: chartreuse;
+}
+.parentlist >li{
+color: brown;
+}
+.parents p{
+    color: darkgreen;
+}
+#blog h2{
+    color: darkviolet;
+}
+h2 +p{
+    color: darkred;
+}
+#t1 +p{
+    color: hotpink;
+}
+#d1 +p{
+    color: darkorange;
+}
+.b1 ~ p{
+    color: pink;
+}
+.title ~ p{
+    color: violet;
+}
+ .un * {
+    color: blue;
+}
+#g1,#g2,#g3{
+    color: lightgrey;
+}
+#a1,#a2{
+    font-size: 65px;
+}
+#r1{
+    background-color: yellow;
+}
+.d1{
+    background-color:blue;
+}
+.h0{
+    color: darkgreen;
+}
+
+.u2 >li{
+    color: cornsilk;
+}
+.u3 >li{
+    color: red;
+}
+.p1 ~ strong{
+    color: rgb(71, 5, 5);
+}
+.d2 p{
+    color: green;
+    font-size: 25px;
+}
+.p1 +strong{
+    background-color: chartreuse;
+}
+*{
+    margin: 10%;
+}
+

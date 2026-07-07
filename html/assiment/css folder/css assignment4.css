@@ -1,0 +1,33 @@
+.h1{color: blue;}
+.h2{color: blueviolet;}
+.h3{color: brown;}
+.p1{color: rgb(137, 137, 232);}
+.p2{color: rgb(172, 107, 233);}
+.p3{color: rgb(224, 134, 134);}
+.p4{color: chartreuse; text-align: center;}
+.author{color: goldenrod;}
+.price{color:green; font-size: larger}
+div{background-color: blueviolet;}
+.t1{color: chartreuse;}
+.ul{text-decoration: underline;}
+.ul{text-decoration-color: blueviolet;}
+p{text-decoration: underline;
+text-decoration-color: blue;}
+.ar{text-decoration: underline;
+text-decoration-color: blueviolet;}
+.pr{text-decoration: underline;
+text-decoration-color: brown;}
+.cr{text-decoration: underline dotted;
+text-decoration-color: chartreuse;}
+.news{column-count: 2;
+    column-gap: 40px;
+column-rule:3px solid brown;}
+.mag{column-count: 3;
+column-gap: 20px;
+column-rule: 4px dotted chartreuse;}
+.new{column-count: 3;
+column-gap: 20px;
+column-rule: 4px solid chartreuse;}
+
+
+

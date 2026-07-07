@@ -1,0 +1,11 @@
+div{background-color: lightblue;}
+body {background-image: url(test.png) ;
+background-repeat: no-repeat;
+background-position: top right;
+/*background-size: cover;*/
+background-attachment: fixed;
+background-clip: padding-box;
+background-origin: content-box;}
+.c1{background-color: rgba(255, 0, 0, 0.5);}
+.c2{background: red url(test.png) no-repeat center  ;}
+.c3{background: lightgreen url(test.png) no-repeat ;}

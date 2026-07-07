@@ -1,0 +1,33 @@
+ input[type="text"] {
+     color: blue;
+     background-color: rgb(189, 39, 39);
+}
+input[type="email"]{
+    background-color: blue;
+}
+[href^="https"] { color: green}
+[src$="parrot.avif"] {border-radius: 10px;}
+.b1:hover { color: red;}
+button:active { background-color: rgb(0, 255, 76);}
+input:focus { border-color: green;
+background-color: antiquewhite;}
+.l1:hover { color: chartreuse;}
+.u1:first-child { color: pink;}
+.o1:last-child {font-size: 25px;}
+li:nth-child(even){color: blueviolet;}
+p::first-letter{font-size: 25px;
+color: aqua;}
+.p1::first-line{color: cyan;
+font-weight: bold;}
+h1::before{content: "*";
+    color: darkmagenta;}
+h2::after{content: "#";
+color: gold;}
+label::after{ content: "*";
+color: red;}
+button::before{ content: "login";}
+button:hover{ color: blue;}
+nav a:hover:first-child{color: darkgreen;}
+div:hover::before{content: "*"; background-color: rgb(43, 0, 255);}
+div{background-color: brown;}
+
