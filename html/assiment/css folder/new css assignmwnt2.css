@@ -1,0 +1,20 @@
+input[type="text"]{color: blue; background-color: aqua;}
+input[type="email"]{color: red;}
+a[href^=www]{color: red;}
+a[href$=".com"]{color: brown;}
+img[src$=".png"]{border-radius: 30px;}
+button:hover{color: chartreuse; background-color: blue;}
+a:hover{color:whitesmoke;}
+input:focus {border-color: red;}
+.ul:first-child{color: blue;}
+.ol:last-child{font-size: larger;}
+li:nth-child(even){color: blueviolet;}
+p::first-letter{color: chartreuse; font-size: larger;}
+.fi::first-line{color: darkorange; font-weight: bolder;}
+h2::before{content:"*";color: red;}
+p::after{content: "$"; color: blueviolet; font-weight: bolder;}
+button::after{content:"*";color: gold;}
+button::before{content: "+";}
+.xyz:first-child{color: blueviolet;}
+.card:hover{color: gold;}
+.mnmn:focus{border-color: blueviolet; border: 3;}

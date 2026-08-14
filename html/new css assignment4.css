@@ -1,0 +1,25 @@
+h2{color:blue}
+p{color: rgb(146, 146, 205);}
+.kp{color: rgb(193, 163, 221);}
+.jp{color: rgb(206, 106, 106);}
+.qus{text-align: center;}
+.qu{color: chartreuse;}
+.pp{color: green;}
+.ho{color: brown;}
+.ab{color: blanchedalmond;}
+.se{color: blue;}
+.ga{color: chartreuse;}
+a{text-decoration: none;}
+h1{text-decoration: underline;
+text-decoration-color: blueviolet ; }
+.p01{text-decoration: underline; text-decoration-color: brown;}
+.p02{text-decoration: underline dashed; text-decoration-color: rgb(33, 2, 62);}
+.p03{text-decoration: underline dotted; text-decoration-color: chartreuse;}
+.p04{text-decoration: underline double; text-decoration-color: red;}
+.t8{columns: 2; column-rule: solid; column-rule-color: black;}
+.t9{columns: 3; column-rule: solid; column-rule-color: chartreuse;}
+
+.t10{columns: 3; column-rule: dotted; column-rule-color: darkorange;}
+.t19{color: crimson; text-decoration: underline wavy; text-decoration-color: blueviolet;}
+.t20{color: black; text-decoration: underline; text-decoration-color: gold; }
+.t200{color: red; columns: 3; column-rule:solid; column-rule-color: gold ;}
